@@ -10,8 +10,8 @@
        <ol>
             <li>Healthy</li>
             <li>Multiple-dieseases</li>
-            </li>Rust</li>
-            </li>Scab</li>
+            <li>Rust</li>
+            <li>Scab</li>
        </ol>
     4. Get one with data by viusualizing and understanding the data
     <br>
